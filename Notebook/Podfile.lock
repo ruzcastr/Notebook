@@ -1,0 +1,19 @@
+PODS:
+  - AFNetworking (0.10.1)
+  - JSONKit (1.4)
+  - Reachability (3.1.1)
+  - RegexKitLite (4.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - JSONKit
+  - Reachability
+  - RegexKitLite
+
+SPEC CHECKSUMS:
+  AFNetworking: 560d6b9394bf2f80c1efac9141e0d36739e0ff6d
+  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  RegexKitLite: c0e4c12e6e7de0769f3a3ed679f0f61604170661
+
+COCOAPODS: 0.39.0
