@@ -3,4 +3,4 @@ A simple bill notebook.
 
 # License
 
-MVVMReactiveCocoa is available under the MIT license.
+Notebook is available under the MIT license.
